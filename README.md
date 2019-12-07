@@ -12,10 +12,10 @@ csv file to be converted
 ![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter01.PNG)
 Initial screen of the program
 
-![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter02.PNG)
+![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter02.png)
 Enter csv path and output path
 
-![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter03.PNG)
+![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter03.png)
 conversion finished result
 
 
