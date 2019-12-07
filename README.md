@@ -6,7 +6,7 @@ This program can convert single scv file to multiple xml files.
 In the csv file, 'filename,width,height,class,xmin,ymin,xmax,ymax' has to be written in order.
 
 # Screenshots
-![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshot/captureXMLconverter00.PNG)
+![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter00.PNG)
 csv file to be converted
 
 ![picture](https://github.com/boguss1225/csv_to_xml/blob/master/csv_to_xml_screenshoot/captureXMLconverter01.PNG)
